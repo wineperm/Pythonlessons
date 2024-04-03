@@ -21,14 +21,14 @@
 
 ## Ответ
 
-"Say "Hello, World!" With Python"
+["Say "Hello, World!" With Python"](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true)
 
 ```
 print("Hello, World!")
 
 ```
 
-"Arithmetic Operators"
+["Arithmetic Operators"](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)
 
 ```
 a = int(input())
