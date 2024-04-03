@@ -21,10 +21,14 @@
 
 ## Ответ
 
+"Say "Hello, World!" With Python"
+
 ```
 print("Hello, World!")
 
 ```
+
+"Arithmetic Operators"
 
 ```
 a = int(input())
